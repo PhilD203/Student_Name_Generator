@@ -1,0 +1,21 @@
+.body{
+margin: 25px;
+}
+
+.jumbotron{
+margin-top: 2rem;
+margin-left: 2rem;
+margin-right: 2rem;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+
+.button-div{
+margin-left: 15rem;
+margin-right: 15rem;
+}
